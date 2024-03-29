@@ -33,6 +33,8 @@ include( "inc_nav.php" ); ?>
         <li>Coffee</li>
         <li>and so much more...</li>
     </ul>
+    <br>
+    <br>
 
 </section>
 <?php include( "inc_footer.php" ); ?>
